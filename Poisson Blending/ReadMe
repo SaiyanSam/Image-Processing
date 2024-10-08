@@ -1,1 +1,3 @@
-
+car.png is the foreground image to be blended into street.jpg.
+blended_car_on_street.jpg is the output of the code.
+It should be noted that the output has some artifacts, I will be trying to remove them in the next iterations.
